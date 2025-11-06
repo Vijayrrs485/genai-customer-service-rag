@@ -21,9 +21,9 @@ A LangChain-powered conversational agent with FAISS-based retrieval over 10,000+
 
 1. Clone the repository:
 cd genai-customer-service-rag
+
 2. Install dependencies:
-
 pip install -r requirements.txt
-3. Set up environment variables:
 
+3. Set up environment variables:
 cp .env.example .env
