@@ -13,10 +13,6 @@ A LangChain-powered conversational agent with FAISS-based retrieval over 10,000+
 - FAISS
 - Streamlit
 
-## 📋 Prerequisites
-- Python 3.8+
-- pip
-
 ## 🚀 Installation
 
 1. Clone the repository:
