@@ -11,6 +11,5 @@ A LangChain-powered conversational agent with FAISS-based retrieval over 10,000+
 - LangChain
 - Hugging Face
 - FAISS
-- Streamlit
 
 
